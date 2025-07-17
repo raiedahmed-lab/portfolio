@@ -2,14 +2,16 @@
 
 Shahjalal University of Science and Technology, Sylhet 3114, Bangladesh  
 E-mail: raied22@student.sust.edu, raiedahmednishat@gmail.com | Contact: +8801783965014  
-[LinkedIn](https://www.linkedin.com/in/raiedahmed/) | [ResearchGate](https://www.researchgate.net/profile/Raied-Nishat) | [ORCID](https://orcid.org/0009-0006-0448-3486)  
+[LinkedIn](https://www.linkedin.com/in/raiedahmed/) | [ResearchGate](https://www.researchgate.net/profile/Raied-Nishat) | [Google Scholar](https://scholar.google.com/citations?user=f-9zK80AAAAJ&hl=en) | [ORCID](https://orcid.org/0009-0006-0448-3486) | [GitHub Profile](https://github.com/raiedahmed-lab)
 
 ---
 
 ### 🎓 Education
 
 **BSc(Engg.) in Civil and Environmental Engineering**  
-**Shahjalal University of Science and Technology, Sylhet 3114**, 2020 – Present  
+**Shahjalal University of Science and Technology, Sylhet 3114**
+2020 – Present  
+
 - CGPA: 3.62/4.00 (up to 7th semester)  
 - Expected Graduation: August 2025
 
@@ -22,7 +24,16 @@ E-mail: raied22@student.sust.edu, raiedahmednishat@gmail.com | Contact: +8801783
 - Machine Learning in Geotechnical Modeling  
 - Seismic Risk Analysis  
 - Climate Change & Hydrologic Trends  
-- Computational Modeling and Data-Driven Analysis  
+- Computational Modeling and Data-Driven Analysis
+
+---
+
+## 🧪 Internships
+
+### 📌 CodeAlpha Virtual Internship – Machine Learning  
+**Duration:** April 1 – April 30, 2025  
+Worked as a Machine Learning Intern at the virtual internship focused on Machine Learning applications.  
+Worked on ML mini-projects and gained exposure to model deployment.  
 
 ---
 
@@ -34,7 +45,7 @@ E-mail: raied22@student.sust.edu, raiedahmednishat@gmail.com | Contact: +8801783
 3. *Hydroclimatic Trend Analysis and ML-Based Water Level Prediction for the Ganges Basin* (Submitted to HESS)
 
 **Conference Papers**
-- *Prediction of Soil UCS with Decision Tree-Based Hybrid ML Model*, submitted to ICCEI 2025 (RUET)
+1. *Prediction of Soil UCS with Decision Tree-Based Hybrid ML Model*, submitted to ICCEI 2025 (RUET)
 
 ---
 
