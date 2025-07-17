@@ -2,7 +2,7 @@
 
 Shahjalal University of Science and Technology, Sylhet 3114, Bangladesh  
 E-mail: raied22@student.sust.edu, raiedahmednishat@gmail.com | Contact: +8801783965014  
-[LinkedIn](https://www.linkedin.com/in/raiedahmed/) | [ResearchGate](https://www.researchgate.net/profile/Raied-Nishat) | [Google Scholar](https://scholar.google.com/citations?user=f-9zK80AAAAJ&hl=en) | [ORCID](https://orcid.org/0009-0006-0448-3486) | [GitHub Profile](https://github.com/raiedahmed-lab)
+[LinkedIn](https://www.linkedin.com/in/raiedahmed/) | [ResearchGate](https://www.researchgate.net/profile/Raied-Nishat) | [Google Scholar](https://scholar.google.com/citations?user=f-9zK80AAAAJ&hl=en) | [ORCID](https://orcid.org/0009-0006-0448-3486) | [GitHub](https://github.com/raiedahmed-lab)
 
 ---
 
