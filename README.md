@@ -28,7 +28,7 @@ E-mail: raied22@student.sust.edu, raiedahmednishat@gmail.com | Contact: +8801783
 
 ---
 
-### 🧪 Internships
+### 🏢 Internships
 
 **CodeAlpha Virtual Internship**
 **Duration:** April 1 – April 30, 2025  
