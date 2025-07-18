@@ -31,6 +31,7 @@ E-mail: raied22@student.sust.edu, raiedahmednishat@gmail.com | Contact: +8801783
 ### 🏢 Internships
 
 **CodeAlpha Virtual Internship**
+
 **Duration:** April 1 – April 30, 2025  
 Worked as a Machine Learning Intern at the virtual internship focused on Machine Learning applications.  
 Worked on ML mini-projects and gained exposure to model deployment.  
