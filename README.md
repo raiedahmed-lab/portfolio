@@ -52,13 +52,13 @@ Worked on ML mini-projects and gained exposure to model deployment.
 
 ### 🔬 Ongoing Research Projects
 
-####1. Transfer Learning for Soil Strength Prediction (Undergraduate Thesis)
+#### 1. Transfer Learning for Soil Strength Prediction (Undergraduate Thesis)
 - **Supervisors:** Dr. Shriful Islam & Nur Md. Robiul Hoque  
 - Pioneering the application of **transfer learning** and **domain adaptation** techniques to model soil undrained shear strength (USS) across geographically distinct regions.
 - Tools: Python
 - Outcome: Journal manuscript in preparation
 
-####2. Mechanical Behavior of Lime and Fly Ash Stabilized Embankment Soil Reinforced with Polyester Fiber
+#### 2. Mechanical Behavior of Lime and Fly Ash Stabilized Embankment Soil Reinforced with Polyester Fiber
 - **Supervisor:** Dr. Shriful Islam
 - Undergraduate Thesis by Mohsina Faiza Naba
 - Investigating the mechanical improvement of Sunamganj clay through combined stabilization using industrial waste (lime, fly ash) and polyester fiber.
@@ -68,7 +68,7 @@ Worked on ML mini-projects and gained exposure to model deployment.
   - Analyzing swell, compaction behavior and UCS strength development
 - Contributions: Planning, data interpretation, documentation, and manuscript writing and reviewing
 
-####3. Kaolin Clay Stabilization using Lime and Alkali-Activated Slag
+#### 3. Kaolin Clay Stabilization using Lime and Alkali-Activated Slag
 - **Supervisor:** Dr. Shriful Islam
 - Undergraduate Thesis by Arnob Sutradhar
 - Assisting in:
@@ -77,7 +77,7 @@ Worked on ML mini-projects and gained exposure to model deployment.
   - UCS performance analysis
 - Contributions: Planning, data interpretation, results documentation, and manuscript structuring
 
-####4. Seismic Risk Assessment of Chittagong City
+#### 4. Seismic Risk Assessment of Chittagong City
 - Collaborating with Dr. Ram Krishna Mazumder and Abul Hasnat
 - Objectives:
   - Assess urban vulnerability and resilience
